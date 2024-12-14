@@ -50,6 +50,31 @@ Both scripts provide a fun and engaging experience and are easy to set up and ru
     ```bash
     python multiplay.py
 
+## Controls
+
+### Single Player Mode
+- **Move Left**: Press 'A' key
+- **Move Right**: Press 'D' key
+- **Move Up**: Press 'W' key
+- **Move Down**: Press 'S' key
+- **Shoot**: Press 'SPACE' key
+
+### Two-Player Mode
+- **Player 1 Controls**:
+  - **Move Left**: 'A'
+  - **Move Right**: 'D'
+  - **Move Up**: 'W'
+  - **Move Down**: 'S'
+  - **Shoot**: 'Left Ctrl'
+
+- **Player 2 Controls**:
+  - **Move Left**: 'Left Arrow'
+  - **Move Right**: 'Right Arrow'
+  - **Move Up**: 'Up Arrow'
+  - **Move Down**: 'Down Arrow'
+  - **Shoot**: 'Right Ctrl'
+
+
 ## License
 This project is licensed under the MIT License. You are free to modify and distribute it as needed.
 
