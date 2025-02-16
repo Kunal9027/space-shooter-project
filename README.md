@@ -74,7 +74,4 @@ Both scripts provide a fun and engaging experience and are easy to set up and ru
   - **Move Down**: 'Down Arrow'
   - **Shoot**: 'Right Ctrl'
 
-
-## License
-This project is licensed under the MIT License. You are free to modify and distribute it as needed.
-
+🚀🚀 🌠
